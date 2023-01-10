@@ -63,9 +63,5 @@ int  main() {
 cout<<"AREA "<<r.area()<<endl;
 r.setLength(10);
 cout<<"length"<<r.getLength();
-
-
-
-
     return 0;
 }
